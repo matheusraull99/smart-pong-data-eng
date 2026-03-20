@@ -1,16 +1,16 @@
-🏓 Smart Pong Analytics - Data Engineering Project
+## 🏓 Smart Pong Analytics - Data Engineering Project
 🇧🇷 Resumo do Projeto
 Este projeto simula um ecossistema de dados para uma mesa de ping-pong inteligente. Ele abrange desde a ingestão de dados brutos (sensores/visão computacional), passando por limpeza e transformação (ETL), até a visualização em tempo real de métricas de performance e mapas de calor.
 
 🇺🇸 Project Overview (English)
 This repository features an end-to-end data engineering pipeline designed for sports analytics. It simulates real-time data ingestion from table tennis sensors, performing stream-like processing to calculate ball velocity and impact distribution. The project demonstrates core data engineering concepts: raw data handling (Bronze), data quality enforcement (Silver), and analytical visualization (Gold) using Python and Google Colab.
 
-🚀 Tecnologias Utilizadas
-Python 3.x
+## 🚀 Tecnologias Utilizadas
+* **Python 3.x**
 
-Pandas (Processamento e Transformação)
+* **Pandas (Processamento e Transformação)
 
-Seaborn/Matplotlib (Visualização de Dados)
+* **Seaborn/Matplotlib (Visualização de Dados)
 
 JSON/CSV (Armazenamento de arquivos)
 
